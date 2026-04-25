@@ -1,0 +1,64 @@
+# ⭐ Quiz Star Wars
+
+> *Há muito tempo, em uma galáxia muito, muito distante...*
+
+Descubra qual personagem do universo Star Wars você seria! Responda 10 perguntas e deixe a Força revelar o seu destino.
+
+---
+
+## 🎮 Como jogar
+
+1. Abra o arquivo `trabalho.html` no navegador
+2. Clique em **Iniciar Jornada**
+3. Responda as 10 perguntas escolhendo a opção que mais combina com você
+4. Descubra se você é **Luke Skywalker**, **Darth Vader** ou **Han Solo**
+
+---
+
+## 👤 Os personagens
+
+| Personagem | Perfil |
+|---|---|
+| Luke Skywalker | Herói altruísta. Valoriza a paz, a amizade e a luz da Força |
+| Darth Vader | Movido pela ambição e pela ordem. O lado sombrio flui através dele |
+| Han Solo | Rebelde e espírito livre. Confia no instinto e no improviso |
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **HTML5** — estrutura das telas e elementos da interface
+- **CSS3** — estilização, fonte temática (Orbitron) e barra de progresso animada
+- **JavaScript** — lógica do quiz orientada a objetos, manipulação do DOM
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+📁 repositório/
+├── trabalho.html   # Arquivo principal (HTML + CSS + JS)
+├── luke.jpg        # Imagem de Luke Skywalker
+├── vader.jpg       # Imagem de Darth Vader
+├── han.jpg         # Imagem de Han Solo
+└── README.md       # Este arquivo
+```
+
+---
+
+## ✅ Requisitos atendidos
+
+- Interação com o DOM para recuperação e atualização de dados
+- Uso de funções básicas e arrow functions
+- Estruturas condicionais e laços de repetição
+- Uso de listas e objetos
+- Sistema orientado a objetos (classes `Personagem` e `Quiz`)
+- Tela de boas-vindas, questionário com 10 perguntas e tela de resultado
+- Exibição de pontuação, nome, descrição e imagem do personagem vencedor
+- Opção de reiniciar o jogo
+
+---
+
+## 👨‍💻 Equipe
+
+Desenvolvido para a disciplina de **Programação para Web** como projeto da AT2.
